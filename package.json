@@ -1,0 +1,17 @@
+{
+  "name": "atii",
+  "version": "1.0.0",
+  "description": "A **ATII** será a Academia de Tecnologia e Inovação Internacional, uma plataforma open-source dedicada a oferecer conteúdos de alta qualidade sobre tecnologia, programação e inovação para um público global. Nosso projeto está atualmente em construção e só será possível graças à todas as aulas do curso.dev.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
